@@ -1,0 +1,27 @@
+# Binaries
+broker
+publisher
+subscriber
+
+# Build artifacts
+*.o
+*.out
+*.exe
+
+# VSCode workspace settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs or dumps
+*.log
+*.core
+
+# Backup/editor files
+*~
+*.swp
+
+# environment
+.env
